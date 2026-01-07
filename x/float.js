@@ -2,13 +2,13 @@ document.write('<div id="floatads" style="width:100%;margin:auto; text-align:cen
 document.write('<div style="text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto;">');
 
 atOptions = {
-    'key': '1e8cfb88a9b5827f12642a9098d2b752',
+    'key': 'b7de6d42176768af896d8cf77e8f7bb7',
     'format': 'iframe',
     'height': 90,
     'width': 728,
     'params': {}
 };
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/1e8cfb88a9b5827f12642a9098d2b752/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//beginshello.com/b7de6d42176768af896d8cf77e8f7bb7/invoke.js"></scr' + 'ipt>');
 
 document.write('</div>');
 document.write('</div>');
