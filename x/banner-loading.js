@@ -1,9 +1,9 @@
 
 	atOptions = {
-		'key' : 'b7de6d42176768af896d8cf77e8f7bb7',
+		'key' : '1e8cfb88a9b5827f12642a9098d2b752',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="//beginshello.com/b7de6d42176768af896d8cf77e8f7bb7/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="//greetingpoet.com/1e8cfb88a9b5827f12642a9098d2b752/invoke.js"></scr' + 'ipt>');
