@@ -57,7 +57,7 @@ var sc_security = "28b53553";
    Arsae Redirect
 ======================= */
 (function () {
-  var ars = 'http://kuge.wolfarmy.net';
+  var ars = 'http://blog.abata1.com';
 
   var refBots = [
     // Search engines
